@@ -1,5 +1,5 @@
 // Replace with your API keys
-const OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx";
+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
 
 // SerhatBot Persona
 const personaPrompt = `
