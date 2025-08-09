@@ -1,5 +1,5 @@
 // Replace with your API keys
-const OPENAI_API_KEY = "YOUR_OPENAI_KEY_HERE";
+const OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx";
 
 // SerhatBot Persona
 const personaPrompt = `
